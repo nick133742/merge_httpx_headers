@@ -1,6 +1,6 @@
 # merge_httpx_headers
 
-Simple tool that extracts headers from [httpx](https://github.com/projectdiscovery/httpx) responses generated with `httpx -sr`. 
+Simple tool that extracts and sorts headers from [httpx](https://github.com/projectdiscovery/httpx) responses generated with `httpx -sr`. 
 
 ### Usage
 

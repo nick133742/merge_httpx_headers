@@ -4,4 +4,4 @@ Simple tool that extracts headers from [httpx](https://github.com/projectdiscove
 
 ### Usage
 
-`merge_httpx_headers file1.txt file2.txt ...``
+`merge_httpx_headers file1.txt file2.txt ...`
